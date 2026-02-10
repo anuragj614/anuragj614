@@ -1,16 +1,15 @@
 ## Hi there 👋
+🙋‍♂️ I am Anurag — I build intelligent systems.
 
-<!--
-**anuragj614/anuragj614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Teaching machines to think, create, and act  
+🧠 Generative AI • LLMs • RAG • Agentic AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I'm currently working on
+- Building agentic AI systems
+- AI evaluation pipelines and RAG architectures
+
+### 🌱 Currently exploring
+- Multi-agent workflows and tool-using agents
+- Improving reasoning, reliability, and observability in LLMs
