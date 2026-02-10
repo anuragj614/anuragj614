@@ -1,5 +1,5 @@
 ## Hi there 👋
-🙋‍♂️ I am Anurag — I build intelligent systems.
+🧑‍💻 I am Anurag — I build intelligent systems.
 
 🤖 Teaching machines to think, create, and act  
 🧠 Generative AI • LLMs • RAG • Agentic AI  
